@@ -180,7 +180,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Button
+  m_text: Start
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -471,7 +471,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 034de87e67769074fbf6a1d7a7bab4db, type: 2}
+    - {fileID: 11400000, guid: 587c0f259199df54488b41f55c1ae35c, type: 2}
 --- !u!114 &419911798
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -680,7 +680,7 @@ MonoBehaviour:
   _data:
     _json: '{"nest":{"source":"Macro","macro":0,"embed":null}}'
     _objectReferences:
-    - {fileID: 11400000, guid: 034de87e67769074fbf6a1d7a7bab4db, type: 2}
+    - {fileID: 11400000, guid: 587c0f259199df54488b41f55c1ae35c, type: 2}
 --- !u!114 &870189586
 MonoBehaviour:
   m_ObjectHideFlags: 0
